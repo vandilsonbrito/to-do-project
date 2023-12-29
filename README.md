@@ -1,6 +1,6 @@
 # To Do
 
-  Esse é um To Do project. No qual é possivel adicionar tarefas, marcar como feitas, excluí-las, editá-las, filtrá-las e pesquisá-las. Ao adicionar 
+  Esse é um To Do project. No qual é possivel adicionar tarefas, marcar como feitas, excluí-las, editá-las, filtrá-las e pesquisá-las. Todas essas operações são salvas no localstorage do navegador.
   
 
 <h2>Technologies</h2>
